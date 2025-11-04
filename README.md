@@ -1,5 +1,5 @@
 # BF: Instagram Password Cracker
-# Developed And Designed By Muhammad Hammad Haider
+# Developed And Designed By AdminX
 
 ## Description
 
