@@ -38,7 +38,7 @@ Follow these steps to install and use BF:
 
 1. **Clone the Repository**: Clone the Insta-Cypher repository from GitHub to your local machine.
    ```
-   git clone https://github.com/syedhamishah/Insta_bruteforce
+   git clone https://github.com/amfinethankyou/Insta_bruteforce
    ```
 
 2. **Start Tor**: Run the Tor service in another terminal to ensure anonymous and secure connections.
