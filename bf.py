@@ -58,7 +58,7 @@ class InstaVibe:
             return ("ERROR", None)
 
     async def run(self):
-        console.print(f"[bold magenta]🚀 VIBE CHECK STARTED ON:[/bold magenta] [white]{self.target}[/white]")
+        console.print(f"[bold magenta]🚀 ATTACK MODE ON:[/bold magenta] [white]{self.target}[/white]")
         
         if not os.path.exists(self.wordlist):
             console.print("[red]Error: Wordlist not found![/red]")
@@ -90,3 +90,4 @@ if __name__ == "__main__":
     
     engine = InstaVibe(target_user, word_file)
     asyncio.run(engine.run())
+
